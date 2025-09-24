@@ -2,9 +2,9 @@
 Team project: fall-2025-forecasting-electricity-price
 
 Datasets: 
-  # energy residential price for KH/monthly is our main target
+  energy residential price for KH/monthly is our main target
   https://www.eia.gov/ # We need to find a way to download the data
-  # environmental data to be used as predictors
+  environmental data to be used as predictors
   https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table # Apparently easy to download
 
 Problem: 

@@ -1,0 +1,745 @@
+period,exportImportType,coalRankId,coalRankDescription,price,price-units
+2008-Q1,Exports,MET,Metallurgical,98.9,dollars per short ton
+2010-Q3,Imports,MET,Metallurgical,204.71,dollars per short ton
+2004-Q2,Exports,MET,Metallurgical,65.32,dollars per short ton
+2004-Q1,Exports,MET,Metallurgical,54.1,dollars per short ton
+2004-Q1,Imports,MET,Metallurgical,48.42,dollars per short ton
+2006-Q4,Imports,MET,Metallurgical,113.25,dollars per short ton
+2001-Q3,Imports,MET,Metallurgical,44.92,dollars per short ton
+2010-Q4,Exports,MET,Metallurgical,160.63,dollars per short ton
+2004-Q2,Imports,MET,Metallurgical,50.74,dollars per short ton
+2010-Q4,Imports,MET,Metallurgical,194.73,dollars per short ton
+2005-Q3,Imports,MET,Metallurgical,101.15,dollars per short ton
+2005-Q4,Exports,MET,Metallurgical,85.98,dollars per short ton
+2005-Q4,Imports,MET,Metallurgical,106.33,dollars per short ton
+2002-Q2,Exports,MET,Metallurgical,44.24,dollars per short ton
+2001-Q4,Exports,MET,Metallurgical,44.74,dollars per short ton
+2001-Q4,Imports,MET,Metallurgical,46.48,dollars per short ton
+2005-Q1,Imports,MET,Metallurgical,95.61,dollars per short ton
+2010-Q2,Imports,MET,Metallurgical,180.79,dollars per short ton
+2010-Q3,Exports,MET,Metallurgical,162.54,dollars per short ton
+2010-Q2,Exports,MET,Metallurgical,143.73,dollars per short ton
+2005-Q3,Exports,MET,Metallurgical,85.92,dollars per short ton
+2008-Q2,Imports,MET,Metallurgical,109.19,dollars per short ton
+2006-Q3,Imports,MET,Metallurgical,103.61,dollars per short ton
+2010-Q1,Exports,MET,Metallurgical,117.36,dollars per short ton
+2010-Q1,Imports,MET,Metallurgical,106.49,dollars per short ton
+2005-Q1,Exports,MET,Metallurgical,73.65,dollars per short ton
+2005-Q2,Imports,MET,Metallurgical,102.11,dollars per short ton
+2008-Q2,Exports,MET,Metallurgical,129.91,dollars per short ton
+2008-Q1,Imports,MET,Metallurgical,98.64,dollars per short ton
+2009-Q4,Exports,MET,Metallurgical,112.91,dollars per short ton
+2009-Q4,Imports,MET,Metallurgical,120.72,dollars per short ton
+2009-Q3,Imports,MET,Metallurgical,122.57,dollars per short ton
+2012-Q1,Imports,MET,Metallurgical,206.07,dollars per short ton
+2001-Q1,Imports,MET,Metallurgical,45.47,dollars per short ton
+2007-Q3,Imports,MET,Metallurgical,93.19,dollars per short ton
+2001-Q2,Exports,MET,Metallurgical,40.12,dollars per short ton
+2007-Q2,Imports,MET,Metallurgical,95.79,dollars per short ton
+2007-Q1,Exports,MET,Metallurgical,91.81,dollars per short ton
+2007-Q2,Exports,MET,Metallurgical,86.49,dollars per short ton
+2007-Q3,Exports,MET,Metallurgical,87.99,dollars per short ton
+2001-Q1,Exports,MET,Metallurgical,39.25,dollars per short ton
+2007-Q1,Imports,MET,Metallurgical,110.8,dollars per short ton
+2009-Q3,Exports,MET,Metallurgical,111.64,dollars per short ton
+2012-Q3,Imports,MET,Metallurgical,194.71,dollars per short ton
+2003-Q1,Imports,MET,Metallurgical,49.54,dollars per short ton
+2012-Q3,Exports,MET,Metallurgical,148.01,dollars per short ton
+2006-Q3,Exports,MET,Metallurgical,90.65,dollars per short ton
+2012-Q4,Exports,MET,Metallurgical,131.09,dollars per short ton
+2012-Q2,Imports,MET,Metallurgical,186.91,dollars per short ton
+2014-Q4,Imports,MET,Metallurgical,121.96,dollars per short ton
+2012-Q4,Imports,MET,Metallurgical,155.27,dollars per short ton
+2004-Q4,Imports,MET,Metallurgical,60.48,dollars per short ton
+2007-Q4,Exports,MET,Metallurgical,90.19,dollars per short ton
+2014-Q3,Imports,MET,Metallurgical,106.17,dollars per short ton
+2014-Q4,Exports,MET,Metallurgical,95.47,dollars per short ton
+2004-Q4,Exports,MET,Metallurgical,68.43,dollars per short ton
+2006-Q1,Exports,MET,Metallurgical,91.9,dollars per short ton
+2005-Q2,Exports,MET,Metallurgical,81.27,dollars per short ton
+2007-Q4,Imports,MET,Metallurgical,93.05,dollars per short ton
+2006-Q4,Exports,MET,Metallurgical,90.7,dollars per short ton
+2006-Q2,Exports,MET,Metallurgical,90.08,dollars per short ton
+2006-Q2,Imports,MET,Metallurgical,113.71,dollars per short ton
+2006-Q1,Imports,MET,Metallurgical,107.27,dollars per short ton
+2011-Q1,Exports,MET,Metallurgical,170.36,dollars per short ton
+2012-Q1,Exports,MET,Metallurgical,168.96,dollars per short ton
+2016-Q4,Exports,MET,Metallurgical,118.07,dollars per short ton
+2011-Q2,Imports,MET,Metallurgical,271.97,dollars per short ton
+2011-Q1,Imports,MET,Metallurgical,194.51,dollars per short ton
+2001-Q2,Imports,MET,Metallurgical,43.35,dollars per short ton
+2011-Q3,Imports,MET,Metallurgical,288.22,dollars per short ton
+2004-Q3,Imports,MET,Metallurgical,55.65,dollars per short ton
+2011-Q3,Exports,MET,Metallurgical,201.59,dollars per short ton
+2001-Q3,Exports,MET,Metallurgical,43.19,dollars per short ton
+2003-Q4,Exports,MET,Metallurgical,43.99,dollars per short ton
+2003-Q3,Exports,MET,Metallurgical,43.1,dollars per short ton
+2016-Q3,Imports,MET,Metallurgical,75.17,dollars per short ton
+2003-Q2,Imports,MET,Metallurgical,45.57,dollars per short ton
+2012-Q2,Exports,MET,Metallurgical,157.16,dollars per short ton
+2004-Q3,Exports,MET,Metallurgical,67.33,dollars per short ton
+2003-Q2,Exports,MET,Metallurgical,44.62,dollars per short ton
+2003-Q1,Exports,MET,Metallurgical,46.34,dollars per short ton
+2016-Q3,Exports,MET,Metallurgical,76.25,dollars per short ton
+2009-Q1,Exports,MET,Metallurgical,133.86,dollars per short ton
+2003-Q4,Imports,MET,Metallurgical,47.5,dollars per short ton
+2003-Q3,Imports,MET,Metallurgical,49.17,dollars per short ton
+2008-Q4,Exports,MET,Metallurgical,156.65,dollars per short ton
+2014-Q1,Exports,MET,Metallurgical,107.06,dollars per short ton
+2002-Q1,Imports,MET,Metallurgical,46.79,dollars per short ton
+2009-Q1,Imports,MET,Metallurgical,109.72,dollars per short ton
+2002-Q1,Exports,MET,Metallurgical,46.82,dollars per short ton
+2008-Q4,Imports,MET,Metallurgical,124.09,dollars per short ton
+2002-Q3,Imports,MET,Metallurgical,44.35,dollars per short ton
+2008-Q3,Exports,MET,Metallurgical,149.3,dollars per short ton
+2011-Q4,Imports,MET,Metallurgical,256.4,dollars per short ton
+2009-Q2,Exports,MET,Metallurgical,115.25,dollars per short ton
+2002-Q3,Exports,MET,Metallurgical,45.33,dollars per short ton
+2002-Q4,Imports,MET,Metallurgical,45.57,dollars per short ton
+2002-Q2,Imports,MET,Metallurgical,43.3,dollars per short ton
+2002-Q4,Exports,MET,Metallurgical,45.7,dollars per short ton
+2011-Q2,Exports,MET,Metallurgical,191.24,dollars per short ton
+2011-Q4,Exports,MET,Metallurgical,181.41,dollars per short ton
+2013-Q4,Imports,MET,Metallurgical,148.82,dollars per short ton
+2015-Q1,Imports,MET,Metallurgical,78.03,dollars per short ton
+2015-Q2,Imports,MET,Metallurgical,112.15,dollars per short ton
+2013-Q1,Exports,MET,Metallurgical,119.4,dollars per short ton
+2016-Q2,Exports,MET,Metallurgical,69.31,dollars per short ton
+2016-Q1,Imports,MET,Metallurgical,68.18,dollars per short ton
+2015-Q4,Imports,MET,Metallurgical,94.2,dollars per short ton
+2015-Q4,Exports,MET,Metallurgical,80.51,dollars per short ton
+2013-Q3,Exports,MET,Metallurgical,111.92,dollars per short ton
+2015-Q3,Imports,MET,Metallurgical,105.48,dollars per short ton
+2015-Q1,Exports,MET,Metallurgical,94.83,dollars per short ton
+2014-Q2,Imports,MET,Metallurgical,96.76,dollars per short ton
+2013-Q2,Imports,MET,Metallurgical,152.7,dollars per short ton
+2008-Q3,Imports,MET,Metallurgical,127.32,dollars per short ton
+2013-Q3,Imports,MET,Metallurgical,148.9,dollars per short ton
+2013-Q4,Exports,MET,Metallurgical,110.67,dollars per short ton
+2014-Q2,Exports,MET,Metallurgical,97.26,dollars per short ton
+2014-Q1,Imports,MET,Metallurgical,100.66,dollars per short ton
+2013-Q1,Imports,MET,Metallurgical,137.86,dollars per short ton
+2014-Q3,Exports,MET,Metallurgical,97.48,dollars per short ton
+2013-Q2,Exports,MET,Metallurgical,119.23,dollars per short ton
+2009-Q2,Imports,MET,Metallurgical,103.77,dollars per short ton
+2016-Q2,Imports,MET,Metallurgical,73.05,dollars per short ton
+2017-Q2,Exports,MET,Metallurgical,146.48,dollars per short ton
+2018-Q4,Exports,MET,Metallurgical,142.55,dollars per short ton
+2020-Q2,Exports,MET,Metallurgical,107.35,dollars per short ton
+2019-Q1,Imports,MET,Metallurgical,208.13,dollars per short ton
+2017-Q1,Imports,MET,Metallurgical,223.73,dollars per short ton
+2020-Q1,Exports,MET,Metallurgical,114.15,dollars per short ton
+2020-Q2,Imports,MET,Metallurgical,158.33,dollars per short ton
+2018-Q3,Exports,MET,Metallurgical,134.53,dollars per short ton
+2016-Q4,Imports,MET,Metallurgical,78.68,dollars per short ton
+2020-Q3,Exports,MET,Metallurgical,97.12,dollars per short ton
+2017-Q1,Exports,MET,Metallurgical,157.54,dollars per short ton
+2016-Q1,Exports,MET,Metallurgical,68.36,dollars per short ton
+2018-Q2,Imports,MET,Metallurgical,221.89,dollars per short ton
+2015-Q2,Exports,MET,Metallurgical,92.95,dollars per short ton
+2015-Q3,Exports,MET,Metallurgical,85.65,dollars per short ton
+2018-Q2,Exports,MET,Metallurgical,136.97,dollars per short ton
+2018-Q1,Exports,MET,Metallurgical,148.72,dollars per short ton
+2018-Q1,Imports,MET,Metallurgical,204.3,dollars per short ton
+2018-Q4,Imports,MET,Metallurgical,188.7,dollars per short ton
+2018-Q3,Imports,MET,Metallurgical,190.25,dollars per short ton
+2019-Q3,Imports,MET,Metallurgical,198.87,dollars per short ton
+2017-Q4,Imports,MET,Metallurgical,190.46,dollars per short ton
+2019-Q4,Exports,MET,Metallurgical,117.42,dollars per short ton
+2020-Q4,Exports,MET,Metallurgical,99.19,dollars per short ton
+2019-Q2,Imports,MET,Metallurgical,201.75,dollars per short ton
+2017-Q3,Exports,MET,Metallurgical,126.07,dollars per short ton
+2017-Q2,Imports,MET,Metallurgical,253.24,dollars per short ton
+2017-Q4,Exports,MET,Metallurgical,122.04,dollars per short ton
+2022-Q2,Exports,MET,Metallurgical,343.91,dollars per short ton
+2022-Q1,Imports,MET,Metallurgical,125.11,dollars per short ton
+2022-Q1,Exports,MET,Metallurgical,287.75,dollars per short ton
+2019-Q2,Exports,MET,Metallurgical,146.76,dollars per short ton
+2020-Q3,Imports,MET,Metallurgical,123.57,dollars per short ton
+2020-Q4,Imports,MET,Metallurgical,119.89,dollars per short ton
+2020-Q1,Imports,MET,Metallurgical,141.07,dollars per short ton
+2019-Q1,Exports,MET,Metallurgical,151.52,dollars per short ton
+2019-Q4,Imports,MET,Metallurgical,163.83,dollars per short ton
+2022-Q3,Imports,MET,Metallurgical,147.23,dollars per short ton
+2022-Q3,Exports,MET,Metallurgical,261.19,dollars per short ton
+2022-Q4,Exports,MET,Metallurgical,236.68,dollars per short ton
+2021-Q2,Exports,MET,Metallurgical,121.65,dollars per short ton
+2021-Q3,Imports,MET,Metallurgical,145.5,dollars per short ton
+2022-Q4,Imports,MET,Metallurgical,217.22,dollars per short ton
+2024-Q1,Exports,MET,Metallurgical,206.19,dollars per short ton
+2023-Q4,Exports,MET,Metallurgical,203.33,dollars per short ton
+2021-Q1,Exports,MET,Metallurgical,115.19,dollars per short ton
+2021-Q4,Imports,MET,Metallurgical,255.99,dollars per short ton
+2019-Q3,Exports,MET,Metallurgical,131.22,dollars per short ton
+2021-Q2,Imports,MET,Metallurgical,131.29,dollars per short ton
+2017-Q3,Imports,MET,Metallurgical,192.61,dollars per short ton
+2021-Q4,Exports,MET,Metallurgical,238.17,dollars per short ton
+2021-Q3,Exports,MET,Metallurgical,156.8,dollars per short ton
+2022-Q2,Imports,MET,Metallurgical,148.57,dollars per short ton
+2021-Q1,Imports,MET,Metallurgical,116.52,dollars per short ton
+2023-Q2,Imports,MET,Metallurgical,308.72,dollars per short ton
+2023-Q4,Imports,MET,Metallurgical,248.38,dollars per short ton
+2023-Q3,Imports,MET,Metallurgical,247.59,dollars per short ton
+2023-Q1,Exports,MET,Metallurgical,238.58,dollars per short ton
+2023-Q1,Imports,MET,Metallurgical,269.82,dollars per short ton
+2023-Q3,Exports,MET,Metallurgical,177.8,dollars per short ton
+2023-Q2,Exports,MET,Metallurgical,212.61,dollars per short ton
+2024-Q1,Imports,MET,Metallurgical,306.96,dollars per short ton
+2009-Q3,Exports,COK,Coke,105.53,dollars per short ton
+2010-Q3,Imports,COK,Coke,369.03,dollars per short ton
+2008-Q1,Exports,COK,Coke,86.51,dollars per short ton
+2004-Q2,Exports,COK,Coke,90.81,dollars per short ton
+2002-Q2,Imports,COK,Coke,60.96,dollars per short ton
+2004-Q2,Imports,COK,Coke,149.08,dollars per short ton
+2004-Q1,Exports,COK,Coke,122.06,dollars per short ton
+2004-Q1,Imports,COK,Coke,104.41,dollars per short ton
+2001-Q3,Imports,COK,Coke,78.97,dollars per short ton
+2010-Q4,Exports,COK,Coke,151.51,dollars per short ton
+2010-Q4,Imports,COK,Coke,359.12,dollars per short ton
+2005-Q3,Imports,COK,Coke,238.97,dollars per short ton
+2004-Q4,Exports,COK,Coke,70.83,dollars per short ton
+2005-Q4,Exports,COK,Coke,68.67,dollars per short ton
+2005-Q4,Imports,COK,Coke,187.97,dollars per short ton
+2002-Q2,Exports,COK,Coke,75.01,dollars per short ton
+2001-Q4,Exports,COK,Coke,80.06,dollars per short ton
+2001-Q4,Imports,COK,Coke,74.19,dollars per short ton
+2001-Q1,Exports,COK,Coke,92.18,dollars per short ton
+2010-Q2,Exports,COK,Coke,170.99,dollars per short ton
+2008-Q2,Exports,COK,Coke,111.2,dollars per short ton
+2010-Q2,Imports,COK,Coke,362.21,dollars per short ton
+2005-Q2,Exports,COK,Coke,90.68,dollars per short ton
+2010-Q3,Exports,COK,Coke,165.98,dollars per short ton
+2005-Q3,Exports,COK,Coke,93.66,dollars per short ton
+2006-Q3,Imports,COK,Coke,152.18,dollars per short ton
+2010-Q1,Exports,COK,Coke,197,dollars per short ton
+2008-Q2,Imports,COK,Coke,438.83,dollars per short ton
+2005-Q2,Imports,COK,Coke,228.03,dollars per short ton
+2010-Q1,Imports,COK,Coke,255.24,dollars per short ton
+2005-Q1,Exports,COK,Coke,83.92,dollars per short ton
+2007-Q3,Imports,COK,Coke,193.99,dollars per short ton
+2008-Q1,Imports,COK,Coke,327.38,dollars per short ton
+2005-Q1,Imports,COK,Coke,222.5,dollars per short ton
+2009-Q4,Imports,COK,Coke,196.64,dollars per short ton
+2009-Q3,Imports,COK,Coke,240.31,dollars per short ton
+2012-Q1,Imports,COK,Coke,378.47,dollars per short ton
+2007-Q3,Exports,COK,Coke,95.97,dollars per short ton
+2001-Q1,Imports,COK,Coke,73.15,dollars per short ton
+2001-Q2,Exports,COK,Coke,89.35,dollars per short ton
+2007-Q2,Exports,COK,Coke,77.33,dollars per short ton
+2007-Q2,Imports,COK,Coke,174.91,dollars per short ton
+2007-Q1,Exports,COK,Coke,98.2,dollars per short ton
+2007-Q1,Imports,COK,Coke,162.47,dollars per short ton
+2009-Q4,Exports,COK,Coke,120.79,dollars per short ton
+2012-Q3,Imports,COK,Coke,332.5,dollars per short ton
+2012-Q2,Exports,COK,Coke,219.91,dollars per short ton
+2003-Q1,Imports,COK,Coke,76.62,dollars per short ton
+2012-Q4,Exports,COK,Coke,208.81,dollars per short ton
+2004-Q4,Imports,COK,Coke,214.51,dollars per short ton
+2012-Q2,Imports,COK,Coke,331.8,dollars per short ton
+2014-Q4,Imports,COK,Coke,86.33,dollars per short ton
+2012-Q4,Imports,COK,Coke,270.71,dollars per short ton
+2006-Q3,Exports,COK,Coke,64.8,dollars per short ton
+2006-Q1,Exports,COK,Coke,113.13,dollars per short ton
+2006-Q4,Exports,COK,Coke,77.22,dollars per short ton
+2014-Q4,Exports,COK,Coke,229.91,dollars per short ton
+2007-Q4,Imports,COK,Coke,229.75,dollars per short ton
+2011-Q1,Exports,COK,Coke,259.46,dollars per short ton
+2006-Q2,Exports,COK,Coke,87.65,dollars per short ton
+2006-Q2,Imports,COK,Coke,155.41,dollars per short ton
+2006-Q1,Imports,COK,Coke,174.79,dollars per short ton
+2014-Q3,Imports,COK,Coke,224.58,dollars per short ton
+2007-Q4,Exports,COK,Coke,89.8,dollars per short ton
+2016-Q4,Exports,COK,Coke,182.02,dollars per short ton
+2012-Q1,Exports,COK,Coke,210.4,dollars per short ton
+2011-Q1,Imports,COK,Coke,361.49,dollars per short ton
+2003-Q4,Exports,COK,Coke,111.74,dollars per short ton
+2011-Q2,Imports,COK,Coke,403.94,dollars per short ton
+2001-Q2,Imports,COK,Coke,75.91,dollars per short ton
+2011-Q3,Imports,COK,Coke,424.43,dollars per short ton
+2011-Q4,Exports,COK,Coke,221.31,dollars per short ton
+2004-Q3,Imports,COK,Coke,315.9,dollars per short ton
+2011-Q3,Exports,COK,Coke,198.22,dollars per short ton
+2006-Q4,Imports,COK,Coke,151.29,dollars per short ton
+2001-Q3,Exports,COK,Coke,69.53,dollars per short ton
+2003-Q3,Exports,COK,Coke,78.44,dollars per short ton
+2016-Q3,Imports,COK,Coke,138.66,dollars per short ton
+2003-Q2,Exports,COK,Coke,78.57,dollars per short ton
+2003-Q2,Imports,COK,Coke,95.81,dollars per short ton
+2004-Q3,Exports,COK,Coke,75.82,dollars per short ton
+2002-Q1,Exports,COK,Coke,113.18,dollars per short ton
+2016-Q3,Exports,COK,Coke,221.04,dollars per short ton
+2003-Q1,Exports,COK,Coke,124.56,dollars per short ton
+2003-Q4,Imports,COK,Coke,90.43,dollars per short ton
+2012-Q3,Exports,COK,Coke,223.51,dollars per short ton
+2003-Q3,Imports,COK,Coke,87.41,dollars per short ton
+2009-Q1,Exports,COK,Coke,90.91,dollars per short ton
+2002-Q1,Imports,COK,Coke,68.8,dollars per short ton
+2009-Q1,Imports,COK,Coke,377.5,dollars per short ton
+2014-Q2,Exports,COK,Coke,230.73,dollars per short ton
+2008-Q4,Imports,COK,Coke,546.26,dollars per short ton
+2002-Q3,Imports,COK,Coke,93.47,dollars per short ton
+2009-Q2,Exports,COK,Coke,87.58,dollars per short ton
+2011-Q4,Imports,COK,Coke,347,dollars per short ton
+2008-Q4,Exports,COK,Coke,143.26,dollars per short ton
+2014-Q1,Exports,COK,Coke,266.11,dollars per short ton
+2008-Q3,Exports,COK,Coke,86.09,dollars per short ton
+2002-Q4,Imports,COK,Coke,64.91,dollars per short ton
+2011-Q2,Exports,COK,Coke,198.97,dollars per short ton
+2002-Q4,Exports,COK,Coke,68.14,dollars per short ton
+2002-Q3,Exports,COK,Coke,81.42,dollars per short ton
+2013-Q4,Imports,COK,Coke,374.59,dollars per short ton
+2015-Q1,Imports,COK,Coke,259.85,dollars per short ton
+2016-Q2,Exports,COK,Coke,271.95,dollars per short ton
+2013-Q1,Exports,COK,Coke,222.29,dollars per short ton
+2016-Q1,Imports,COK,Coke,211.45,dollars per short ton
+2015-Q4,Exports,COK,Coke,205.18,dollars per short ton
+2015-Q4,Imports,COK,Coke,121.14,dollars per short ton
+2013-Q3,Exports,COK,Coke,213.73,dollars per short ton
+2015-Q3,Imports,COK,Coke,142.91,dollars per short ton
+2015-Q2,Imports,COK,Coke,279.48,dollars per short ton
+2015-Q1,Exports,COK,Coke,216.66,dollars per short ton
+2014-Q2,Imports,COK,Coke,95.55,dollars per short ton
+2013-Q2,Imports,COK,Coke,211.62,dollars per short ton
+2013-Q3,Imports,COK,Coke,145.1,dollars per short ton
+2013-Q4,Exports,COK,Coke,204.76,dollars per short ton
+2008-Q3,Imports,COK,Coke,573.52,dollars per short ton
+2014-Q3,Exports,COK,Coke,265.01,dollars per short ton
+2014-Q1,Imports,COK,Coke,249.52,dollars per short ton
+2016-Q2,Imports,COK,Coke,130.65,dollars per short ton
+2013-Q1,Imports,COK,Coke,226.04,dollars per short ton
+2013-Q2,Exports,COK,Coke,245.7,dollars per short ton
+2009-Q2,Imports,COK,Coke,318.52,dollars per short ton
+2019-Q1,Imports,COK,Coke,396.51,dollars per short ton
+2020-Q1,Exports,COK,Coke,284.81,dollars per short ton
+2017-Q1,Imports,COK,Coke,249.84,dollars per short ton
+2018-Q3,Exports,COK,Coke,290.98,dollars per short ton
+2020-Q2,Imports,COK,Coke,348.96,dollars per short ton
+2019-Q1,Exports,COK,Coke,278.24,dollars per short ton
+2016-Q4,Imports,COK,Coke,164.98,dollars per short ton
+2017-Q1,Exports,COK,Coke,212.56,dollars per short ton
+2020-Q3,Exports,COK,Coke,323.91,dollars per short ton
+2018-Q2,Exports,COK,Coke,290.88,dollars per short ton
+2018-Q4,Exports,COK,Coke,236.54,dollars per short ton
+2016-Q1,Exports,COK,Coke,296.22,dollars per short ton
+2018-Q2,Imports,COK,Coke,218.93,dollars per short ton
+2015-Q2,Exports,COK,Coke,254.4,dollars per short ton
+2015-Q3,Exports,COK,Coke,235.03,dollars per short ton
+2018-Q1,Exports,COK,Coke,241.3,dollars per short ton
+2019-Q2,Exports,COK,Coke,298.7,dollars per short ton
+2018-Q1,Imports,COK,Coke,375.32,dollars per short ton
+2018-Q4,Imports,COK,Coke,311.79,dollars per short ton
+2018-Q3,Imports,COK,Coke,360.85,dollars per short ton
+2017-Q4,Exports,COK,Coke,222.69,dollars per short ton
+2019-Q2,Imports,COK,Coke,300.01,dollars per short ton
+2019-Q4,Exports,COK,Coke,245.57,dollars per short ton
+2017-Q2,Imports,COK,Coke,135.89,dollars per short ton
+2022-Q2,Exports,COK,Coke,281.5,dollars per short ton
+2017-Q4,Imports,COK,Coke,183.29,dollars per short ton
+2019-Q3,Imports,COK,Coke,351.36,dollars per short ton
+2017-Q3,Exports,COK,Coke,258.75,dollars per short ton
+2022-Q1,Imports,COK,Coke,548.22,dollars per short ton
+2017-Q2,Exports,COK,Coke,235.68,dollars per short ton
+2020-Q3,Imports,COK,Coke,241.36,dollars per short ton
+2020-Q4,Exports,COK,Coke,223.24,dollars per short ton
+2020-Q2,Exports,COK,Coke,254.56,dollars per short ton
+2020-Q1,Imports,COK,Coke,451.11,dollars per short ton
+2022-Q2,Imports,COK,Coke,502.38,dollars per short ton
+2019-Q4,Imports,COK,Coke,263.52,dollars per short ton
+2020-Q4,Imports,COK,Coke,213.06,dollars per short ton
+2022-Q1,Exports,COK,Coke,288.92,dollars per short ton
+2022-Q3,Exports,COK,Coke,425.77,dollars per short ton
+2022-Q4,Exports,COK,Coke,391.98,dollars per short ton
+2021-Q2,Exports,COK,Coke,281.11,dollars per short ton
+2021-Q3,Imports,COK,Coke,297.99,dollars per short ton
+2022-Q4,Imports,COK,Coke,482.08,dollars per short ton
+2024-Q1,Exports,COK,Coke,283.6,dollars per short ton
+2022-Q3,Imports,COK,Coke,537.53,dollars per short ton
+2021-Q4,Imports,COK,Coke,259.5,dollars per short ton
+2021-Q2,Imports,COK,Coke,274.3,dollars per short ton
+2017-Q3,Imports,COK,Coke,345.06,dollars per short ton
+2021-Q4,Exports,COK,Coke,234.15,dollars per short ton
+2021-Q3,Exports,COK,Coke,231.68,dollars per short ton
+2019-Q3,Exports,COK,Coke,308.54,dollars per short ton
+2021-Q1,Exports,COK,Coke,280.53,dollars per short ton
+2021-Q1,Imports,COK,Coke,246.7,dollars per short ton
+2023-Q2,Imports,COK,Coke,436.45,dollars per short ton
+2023-Q1,Exports,COK,Coke,441.07,dollars per short ton
+2023-Q3,Exports,COK,Coke,359.75,dollars per short ton
+2023-Q3,Imports,COK,Coke,491.58,dollars per short ton
+2023-Q4,Imports,COK,Coke,453.77,dollars per short ton
+2023-Q1,Imports,COK,Coke,607.1,dollars per short ton
+2023-Q2,Exports,COK,Coke,390.32,dollars per short ton
+2023-Q4,Exports,COK,Coke,394.77,dollars per short ton
+2024-Q1,Imports,COK,Coke,352.57,dollars per short ton
+2001-Q2,Imports,TOT,All,33.84,dollars per short ton
+2008-Q1,Exports,TOT,All,81.81,dollars per short ton
+2002-Q2,Imports,TOT,All,35.83,dollars per short ton
+2004-Q2,Imports,TOT,All,34.97,dollars per short ton
+2004-Q1,Exports,TOT,All,48.38,dollars per short ton
+2004-Q1,Imports,TOT,All,32.72,dollars per short ton
+2003-Q1,Imports,TOT,All,31.65,dollars per short ton
+2004-Q2,Exports,TOT,All,55.95,dollars per short ton
+2001-Q4,Exports,TOT,All,38.5,dollars per short ton
+2001-Q3,Imports,TOT,All,34.04,dollars per short ton
+2010-Q4,Imports,TOT,All,76.18,dollars per short ton
+2011-Q1,Exports,TOT,All,139.34,dollars per short ton
+2010-Q4,Exports,TOT,All,126.16,dollars per short ton
+2015-Q1,Exports,TOT,All,82.31,dollars per short ton
+2005-Q3,Imports,TOT,All,47.76,dollars per short ton
+2004-Q4,Exports,TOT,All,55.54,dollars per short ton
+2005-Q4,Exports,TOT,All,67.85,dollars per short ton
+2005-Q4,Imports,TOT,All,47.4,dollars per short ton
+2003-Q1,Exports,TOT,All,39.72,dollars per short ton
+2001-Q4,Imports,TOT,All,35.46,dollars per short ton
+2010-Q2,Exports,TOT,All,121.36,dollars per short ton
+2009-Q1,Exports,TOT,All,113.08,dollars per short ton
+2005-Q3,Exports,TOT,All,66.42,dollars per short ton
+2005-Q1,Exports,TOT,All,68.26,dollars per short ton
+2010-Q1,Imports,TOT,All,62.02,dollars per short ton
+2005-Q2,Exports,TOT,All,66.26,dollars per short ton
+2010-Q3,Exports,TOT,All,125.45,dollars per short ton
+2008-Q2,Exports,TOT,All,97.24,dollars per short ton
+2005-Q2,Imports,TOT,All,46.49,dollars per short ton
+2008-Q2,Imports,TOT,All,55.59,dollars per short ton
+2006-Q4,Exports,TOT,All,70.17,dollars per short ton
+2008-Q3,Exports,TOT,All,102.51,dollars per short ton
+2005-Q1,Imports,TOT,All,45.13,dollars per short ton
+2010-Q1,Exports,TOT,All,106.52,dollars per short ton
+2008-Q1,Imports,TOT,All,52.91,dollars per short ton
+2009-Q4,Imports,TOT,All,64.72,dollars per short ton
+2012-Q1,Imports,TOT,All,103.82,dollars per short ton
+2001-Q1,Imports,TOT,All,32,dollars per short ton
+2007-Q1,Imports,TOT,All,45.91,dollars per short ton
+2001-Q2,Exports,TOT,All,35.88,dollars per short ton
+2007-Q3,Imports,TOT,All,47.38,dollars per short ton
+2007-Q2,Imports,TOT,All,46.86,dollars per short ton
+2009-Q4,Exports,TOT,All,100.98,dollars per short ton
+2007-Q4,Exports,TOT,All,71.09,dollars per short ton
+2007-Q3,Exports,TOT,All,72.1,dollars per short ton
+2009-Q3,Imports,TOT,All,64.93,dollars per short ton
+2007-Q2,Exports,TOT,All,64.3,dollars per short ton
+2007-Q1,Exports,TOT,All,74.13,dollars per short ton
+2001-Q1,Exports,TOT,All,35.47,dollars per short ton
+2012-Q4,Exports,TOT,All,104.64,dollars per short ton
+2012-Q4,Imports,TOT,All,90.39,dollars per short ton
+2004-Q4,Imports,TOT,All,41.3,dollars per short ton
+2012-Q3,Exports,TOT,All,115.12,dollars per short ton
+2012-Q2,Imports,TOT,All,100.89,dollars per short ton
+2014-Q4,Imports,TOT,All,85.48,dollars per short ton
+2012-Q3,Imports,TOT,All,93.25,dollars per short ton
+2010-Q3,Imports,TOT,All,77.12,dollars per short ton
+2006-Q2,Exports,TOT,All,71.11,dollars per short ton
+2007-Q4,Imports,TOT,All,50.51,dollars per short ton
+2014-Q4,Exports,TOT,All,84.94,dollars per short ton
+2006-Q2,Imports,TOT,All,51.27,dollars per short ton
+2010-Q2,Imports,TOT,All,71.91,dollars per short ton
+2006-Q3,Exports,TOT,All,68.53,dollars per short ton
+2002-Q1,Exports,TOT,All,39.57,dollars per short ton
+2006-Q1,Imports,TOT,All,47.49,dollars per short ton
+2006-Q1,Exports,TOT,All,74.69,dollars per short ton
+2014-Q3,Imports,TOT,All,80.6,dollars per short ton
+2012-Q2,Exports,TOT,All,118.95,dollars per short ton
+2001-Q3,Exports,TOT,All,38.22,dollars per short ton
+2011-Q2,Imports,TOT,All,105.86,dollars per short ton
+2011-Q1,Imports,TOT,All,86,dollars per short ton
+2006-Q3,Imports,TOT,All,48.43,dollars per short ton
+2011-Q3,Exports,TOT,All,155.88,dollars per short ton
+2011-Q2,Exports,TOT,All,153,dollars per short ton
+2006-Q4,Imports,TOT,All,49.55,dollars per short ton
+2003-Q4,Exports,TOT,All,36.49,dollars per short ton
+2011-Q4,Exports,TOT,All,147.38,dollars per short ton
+2004-Q3,Exports,TOT,All,55.1,dollars per short ton
+2016-Q2,Exports,TOT,All,65.79,dollars per short ton
+2016-Q4,Exports,TOT,All,92.57,dollars per short ton
+2003-Q4,Imports,TOT,All,31.8,dollars per short ton
+2003-Q3,Exports,TOT,All,33.19,dollars per short ton
+2004-Q3,Imports,TOT,All,39.49,dollars per short ton
+2016-Q3,Imports,TOT,All,62.7,dollars per short ton
+2012-Q1,Exports,TOT,All,134.88,dollars per short ton
+2003-Q3,Imports,TOT,All,31.23,dollars per short ton
+2003-Q2,Exports,TOT,All,35.67,dollars per short ton
+2003-Q2,Imports,TOT,All,31.17,dollars per short ton
+2014-Q2,Imports,TOT,All,80.46,dollars per short ton
+2008-Q4,Imports,TOT,All,65.33,dollars per short ton
+2009-Q1,Imports,TOT,All,61.03,dollars per short ton
+2008-Q3,Imports,TOT,All,64.65,dollars per short ton
+2002-Q3,Imports,TOT,All,35.38,dollars per short ton
+2014-Q1,Exports,TOT,All,90.72,dollars per short ton
+2002-Q2,Exports,TOT,All,40.77,dollars per short ton
+2009-Q2,Exports,TOT,All,93.28,dollars per short ton
+2014-Q3,Exports,TOT,All,85.69,dollars per short ton
+2002-Q1,Imports,TOT,All,36.17,dollars per short ton
+2002-Q4,Exports,TOT,All,38.58,dollars per short ton
+2011-Q4,Imports,TOT,All,110.19,dollars per short ton
+2002-Q3,Exports,TOT,All,42.93,dollars per short ton
+2011-Q3,Imports,TOT,All,112.06,dollars per short ton
+2002-Q4,Imports,TOT,All,34.78,dollars per short ton
+2015-Q1,Imports,TOT,All,69.95,dollars per short ton
+2013-Q4,Imports,TOT,All,83.12,dollars per short ton
+2016-Q1,Imports,TOT,All,63.97,dollars per short ton
+2015-Q4,Exports,TOT,All,68.61,dollars per short ton
+2015-Q4,Imports,TOT,All,70.48,dollars per short ton
+2015-Q3,Imports,TOT,All,71.85,dollars per short ton
+2015-Q2,Exports,TOT,All,80.14,dollars per short ton
+2015-Q3,Exports,TOT,All,73.52,dollars per short ton
+2015-Q2,Imports,TOT,All,74.4,dollars per short ton
+2013-Q3,Exports,TOT,All,91.64,dollars per short ton
+2013-Q2,Exports,TOT,All,96.77,dollars per short ton
+2013-Q3,Imports,TOT,All,81.66,dollars per short ton
+2009-Q3,Exports,TOT,All,98.7,dollars per short ton
+2016-Q3,Exports,TOT,All,67.24,dollars per short ton
+2014-Q1,Imports,TOT,All,78.15,dollars per short ton
+2008-Q4,Exports,TOT,All,104.97,dollars per short ton
+2013-Q1,Imports,TOT,All,86.87,dollars per short ton
+2013-Q4,Exports,TOT,All,91.46,dollars per short ton
+2009-Q2,Imports,TOT,All,65.44,dollars per short ton
+2016-Q2,Imports,TOT,All,66.3,dollars per short ton
+2013-Q1,Exports,TOT,All,99.68,dollars per short ton
+2013-Q2,Imports,TOT,All,83.18,dollars per short ton
+2014-Q2,Exports,TOT,All,86.24,dollars per short ton
+2017-Q1,Exports,TOT,All,112.14,dollars per short ton
+2020-Q1,Imports,TOT,All,69.46,dollars per short ton
+2020-Q2,Imports,TOT,All,74.92,dollars per short ton
+2016-Q4,Imports,TOT,All,71.21,dollars per short ton
+2019-Q2,Exports,TOT,All,112.21,dollars per short ton
+2020-Q1,Exports,TOT,All,90.15,dollars per short ton
+2020-Q3,Exports,TOT,All,88.83,dollars per short ton
+2019-Q1,Exports,TOT,All,110.18,dollars per short ton
+2017-Q1,Imports,TOT,All,74.81,dollars per short ton
+2018-Q1,Exports,TOT,All,106.94,dollars per short ton
+2018-Q2,Imports,TOT,All,82.95,dollars per short ton
+2018-Q2,Exports,TOT,All,103.75,dollars per short ton
+2018-Q4,Exports,TOT,All,108.69,dollars per short ton
+2016-Q1,Exports,TOT,All,61.41,dollars per short ton
+2018-Q4,Imports,TOT,All,83.08,dollars per short ton
+2018-Q3,Imports,TOT,All,91.02,dollars per short ton
+2018-Q3,Exports,TOT,All,99.48,dollars per short ton
+2018-Q1,Imports,TOT,All,71.87,dollars per short ton
+2019-Q2,Imports,TOT,All,84.78,dollars per short ton
+2017-Q2,Imports,TOT,All,79.43,dollars per short ton
+2017-Q4,Exports,TOT,All,89.43,dollars per short ton
+2019-Q3,Exports,TOT,All,103.09,dollars per short ton
+2017-Q4,Imports,TOT,All,86.54,dollars per short ton
+2019-Q3,Imports,TOT,All,81.65,dollars per short ton
+2019-Q4,Exports,TOT,All,93.22,dollars per short ton
+2017-Q3,Exports,TOT,All,99.17,dollars per short ton
+2022-Q2,Exports,TOT,All,238.23,dollars per short ton
+2022-Q1,Imports,TOT,All,86.5,dollars per short ton
+2019-Q1,Imports,TOT,All,78.43,dollars per short ton
+2017-Q2,Exports,TOT,All,111.24,dollars per short ton
+2022-Q1,Exports,TOT,All,187.2,dollars per short ton
+2020-Q4,Exports,TOT,All,83.35,dollars per short ton
+2022-Q2,Imports,TOT,All,103.54,dollars per short ton
+2019-Q4,Imports,TOT,All,75.66,dollars per short ton
+2020-Q2,Exports,TOT,All,90.61,dollars per short ton
+2020-Q4,Imports,TOT,All,71.1,dollars per short ton
+2020-Q3,Imports,TOT,All,72.17,dollars per short ton
+2022-Q3,Exports,TOT,All,205.99,dollars per short ton
+2021-Q3,Imports,TOT,All,95.84,dollars per short ton
+2022-Q4,Imports,TOT,All,141.73,dollars per short ton
+2022-Q4,Exports,TOT,All,191.33,dollars per short ton
+2022-Q3,Imports,TOT,All,134.59,dollars per short ton
+2021-Q4,Imports,TOT,All,110.28,dollars per short ton
+2021-Q2,Exports,TOT,All,93.8,dollars per short ton
+2021-Q2,Imports,TOT,All,81.99,dollars per short ton
+2017-Q3,Imports,TOT,All,79.43,dollars per short ton
+2021-Q1,Exports,TOT,All,88.81,dollars per short ton
+2021-Q4,Exports,TOT,All,159.38,dollars per short ton
+2021-Q3,Exports,TOT,All,115.84,dollars per short ton
+2021-Q1,Imports,TOT,All,71.56,dollars per short ton
+2023-Q2,Imports,TOT,All,150.63,dollars per short ton
+2023-Q4,Imports,TOT,All,137.86,dollars per short ton
+2023-Q3,Imports,TOT,All,143.34,dollars per short ton
+2023-Q1,Imports,TOT,All,147.06,dollars per short ton
+2024-Q1,Exports,TOT,All,153.34,dollars per short ton
+2023-Q3,Exports,TOT,All,136.28,dollars per short ton
+2024-Q1,Imports,TOT,All,232.99,dollars per short ton
+2023-Q1,Exports,TOT,All,178.23,dollars per short ton
+2023-Q2,Exports,TOT,All,155.58,dollars per short ton
+2023-Q4,Exports,TOT,All,149.75,dollars per short ton
+2006-Q3,Exports,STM,Steam Coal,46.68,dollars per short ton
+2002-Q2,Exports,STM,Steam Coal,36.38,dollars per short ton
+2010-Q3,Imports,STM,Steam Coal,63.22,dollars per short ton
+2004-Q2,Exports,STM,Steam Coal,43.99,dollars per short ton
+2004-Q1,Exports,STM,Steam Coal,35.78,dollars per short ton
+2004-Q1,Imports,STM,Steam Coal,31.53,dollars per short ton
+2003-Q1,Exports,STM,Steam Coal,26.91,dollars per short ton
+2006-Q4,Imports,STM,Steam Coal,45.96,dollars per short ton
+2004-Q2,Imports,STM,Steam Coal,33.23,dollars per short ton
+2001-Q3,Imports,STM,Steam Coal,32.77,dollars per short ton
+2010-Q4,Imports,STM,Steam Coal,64.55,dollars per short ton
+2008-Q1,Exports,STM,Steam Coal,58.75,dollars per short ton
+2010-Q4,Exports,STM,Steam Coal,65.88,dollars per short ton
+2005-Q3,Imports,STM,Steam Coal,44.25,dollars per short ton
+2005-Q4,Exports,STM,Steam Coal,44.81,dollars per short ton
+2005-Q4,Imports,STM,Steam Coal,44.32,dollars per short ton
+2001-Q4,Exports,STM,Steam Coal,32.68,dollars per short ton
+2001-Q4,Imports,STM,Steam Coal,33.77,dollars per short ton
+2006-Q4,Exports,STM,Steam Coal,45,dollars per short ton
+2005-Q1,Exports,STM,Steam Coal,55.23,dollars per short ton
+2010-Q2,Exports,STM,Steam Coal,66.38,dollars per short ton
+2005-Q2,Exports,STM,Steam Coal,48.19,dollars per short ton
+2010-Q2,Imports,STM,Steam Coal,62.54,dollars per short ton
+2008-Q1,Imports,STM,Steam Coal,51.22,dollars per short ton
+2008-Q2,Exports,STM,Steam Coal,58.2,dollars per short ton
+2010-Q3,Exports,STM,Steam Coal,65.17,dollars per short ton
+2006-Q3,Imports,STM,Steam Coal,45.53,dollars per short ton
+2005-Q1,Imports,STM,Steam Coal,42.36,dollars per short ton
+2005-Q3,Exports,STM,Steam Coal,45.88,dollars per short ton
+2008-Q2,Imports,STM,Steam Coal,52.67,dollars per short ton
+2010-Q1,Imports,STM,Steam Coal,59.72,dollars per short ton
+2005-Q2,Imports,STM,Steam Coal,42.35,dollars per short ton
+2010-Q1,Exports,STM,Steam Coal,64.15,dollars per short ton
+2009-Q3,Imports,STM,Steam Coal,62.01,dollars per short ton
+2009-Q4,Imports,STM,Steam Coal,60.32,dollars per short ton
+2009-Q3,Exports,STM,Steam Coal,70.62,dollars per short ton
+2001-Q1,Imports,STM,Steam Coal,30.31,dollars per short ton
+2007-Q3,Imports,STM,Steam Coal,45.16,dollars per short ton
+2007-Q2,Imports,STM,Steam Coal,44.1,dollars per short ton
+2009-Q4,Exports,STM,Steam Coal,76.43,dollars per short ton
+2007-Q1,Imports,STM,Steam Coal,44.33,dollars per short ton
+2007-Q1,Exports,STM,Steam Coal,47.26,dollars per short ton
+2007-Q2,Exports,STM,Steam Coal,38.56,dollars per short ton
+2007-Q3,Exports,STM,Steam Coal,51.35,dollars per short ton
+2001-Q1,Exports,STM,Steam Coal,29.91,dollars per short ton
+2001-Q2,Exports,STM,Steam Coal,31.65,dollars per short ton
+2012-Q3,Imports,STM,Steam Coal,80.36,dollars per short ton
+2003-Q1,Imports,STM,Steam Coal,30.3,dollars per short ton
+2014-Q4,Imports,STM,Steam Coal,78.37,dollars per short ton
+2012-Q3,Exports,STM,Steam Coal,76.81,dollars per short ton
+2012-Q2,Imports,STM,Steam Coal,86.61,dollars per short ton
+2012-Q4,Exports,STM,Steam Coal,73.26,dollars per short ton
+2012-Q4,Imports,STM,Steam Coal,83.08,dollars per short ton
+2004-Q4,Exports,STM,Steam Coal,42.5,dollars per short ton
+2004-Q4,Imports,STM,Steam Coal,39.49,dollars per short ton
+2014-Q3,Imports,STM,Steam Coal,76.6,dollars per short ton
+2007-Q4,Exports,STM,Steam Coal,52.72,dollars per short ton
+2007-Q4,Imports,STM,Steam Coal,47.74,dollars per short ton
+2006-Q2,Imports,STM,Steam Coal,47.95,dollars per short ton
+2006-Q1,Exports,STM,Steam Coal,47.1,dollars per short ton
+2014-Q4,Exports,STM,Steam Coal,65.24,dollars per short ton
+2012-Q1,Imports,STM,Steam Coal,87.85,dollars per short ton
+2006-Q2,Exports,STM,Steam Coal,46.4,dollars per short ton
+2006-Q1,Imports,STM,Steam Coal,45.48,dollars per short ton
+2011-Q3,Exports,STM,Steam Coal,76.53,dollars per short ton
+2001-Q3,Exports,STM,Steam Coal,32.97,dollars per short ton
+2011-Q2,Imports,STM,Steam Coal,80.06,dollars per short ton
+2011-Q1,Imports,STM,Steam Coal,79.52,dollars per short ton
+2011-Q1,Exports,STM,Steam Coal,82.99,dollars per short ton
+2011-Q2,Exports,STM,Steam Coal,78.31,dollars per short ton
+2001-Q2,Imports,STM,Steam Coal,32.59,dollars per short ton
+2011-Q3,Imports,STM,Steam Coal,83.52,dollars per short ton
+2004-Q3,Imports,STM,Steam Coal,38.37,dollars per short ton
+2003-Q3,Imports,STM,Steam Coal,30.09,dollars per short ton
+2003-Q4,Exports,STM,Steam Coal,29.66,dollars per short ton
+2004-Q3,Exports,STM,Steam Coal,42.57,dollars per short ton
+2012-Q1,Exports,STM,Steam Coal,81.13,dollars per short ton
+2016-Q3,Imports,STM,Steam Coal,61.1,dollars per short ton
+2003-Q2,Imports,STM,Steam Coal,30.13,dollars per short ton
+2003-Q3,Exports,STM,Steam Coal,25.52,dollars per short ton
+2003-Q2,Exports,STM,Steam Coal,25.89,dollars per short ton
+2012-Q2,Exports,STM,Steam Coal,74.56,dollars per short ton
+2003-Q4,Imports,STM,Steam Coal,30.48,dollars per short ton
+2016-Q4,Exports,STM,Steam Coal,54.05,dollars per short ton
+2016-Q3,Exports,STM,Steam Coal,43.72,dollars per short ton
+2009-Q1,Exports,STM,Steam Coal,76.99,dollars per short ton
+2002-Q1,Imports,STM,Steam Coal,34.54,dollars per short ton
+2008-Q4,Imports,STM,Steam Coal,62.28,dollars per short ton
+2009-Q2,Exports,STM,Steam Coal,70.81,dollars per short ton
+2008-Q4,Exports,STM,Steam Coal,60.26,dollars per short ton
+2009-Q1,Imports,STM,Steam Coal,59.67,dollars per short ton
+2002-Q1,Exports,STM,Steam Coal,33.2,dollars per short ton
+2002-Q3,Imports,STM,Steam Coal,34.04,dollars per short ton
+2011-Q4,Imports,STM,Steam Coal,81.44,dollars per short ton
+2014-Q1,Exports,STM,Steam Coal,68.27,dollars per short ton
+2014-Q2,Exports,STM,Steam Coal,68.56,dollars per short ton
+2008-Q3,Exports,STM,Steam Coal,51.9,dollars per short ton
+2002-Q3,Exports,STM,Steam Coal,39.44,dollars per short ton
+2002-Q4,Imports,STM,Steam Coal,32.99,dollars per short ton
+2002-Q2,Imports,STM,Steam Coal,34.24,dollars per short ton
+2011-Q4,Exports,STM,Steam Coal,83.75,dollars per short ton
+2002-Q4,Exports,STM,Steam Coal,29.79,dollars per short ton
+2015-Q2,Exports,STM,Steam Coal,56.98,dollars per short ton
+2015-Q2,Imports,STM,Steam Coal,68.25,dollars per short ton
+2013-Q4,Imports,STM,Steam Coal,76.38,dollars per short ton
+2016-Q1,Imports,STM,Steam Coal,63.55,dollars per short ton
+2015-Q1,Exports,STM,Steam Coal,62.31,dollars per short ton
+2015-Q1,Imports,STM,Steam Coal,68.39,dollars per short ton
+2016-Q2,Exports,STM,Steam Coal,57.26,dollars per short ton
+2015-Q4,Imports,STM,Steam Coal,66.32,dollars per short ton
+2013-Q1,Exports,STM,Steam Coal,73.43,dollars per short ton
+2016-Q1,Exports,STM,Steam Coal,43.78,dollars per short ton
+2015-Q3,Imports,STM,Steam Coal,65.71,dollars per short ton
+2014-Q2,Imports,STM,Steam Coal,76.86,dollars per short ton
+2013-Q2,Imports,STM,Steam Coal,74.22,dollars per short ton
+2008-Q3,Imports,STM,Steam Coal,60.25,dollars per short ton
+2013-Q3,Imports,STM,Steam Coal,72.01,dollars per short ton
+2013-Q2,Exports,STM,Steam Coal,69.47,dollars per short ton
+2013-Q3,Exports,STM,Steam Coal,66.1,dollars per short ton
+2013-Q4,Exports,STM,Steam Coal,67.54,dollars per short ton
+2014-Q1,Imports,STM,Steam Coal,75.84,dollars per short ton
+2013-Q1,Imports,STM,Steam Coal,81.58,dollars per short ton
+2009-Q2,Imports,STM,Steam Coal,63.88,dollars per short ton
+2016-Q2,Imports,STM,Steam Coal,65.82,dollars per short ton
+2019-Q1,Imports,STM,Steam Coal,68.57,dollars per short ton
+2017-Q1,Imports,STM,Steam Coal,66.1,dollars per short ton
+2017-Q1,Exports,STM,Steam Coal,56.62,dollars per short ton
+2020-Q2,Imports,STM,Steam Coal,65.51,dollars per short ton
+2020-Q3,Exports,STM,Steam Coal,72.14,dollars per short ton
+2020-Q2,Exports,STM,Steam Coal,64.32,dollars per short ton
+2016-Q4,Imports,STM,Steam Coal,70.2,dollars per short ton
+2018-Q4,Exports,STM,Steam Coal,69.36,dollars per short ton
+2018-Q3,Exports,STM,Steam Coal,62.75,dollars per short ton
+2020-Q1,Exports,STM,Steam Coal,57.18,dollars per short ton
+2018-Q1,Imports,STM,Steam Coal,63.93,dollars per short ton
+2018-Q1,Exports,STM,Steam Coal,58.46,dollars per short ton
+2014-Q3,Exports,STM,Steam Coal,65.32,dollars per short ton
+2015-Q3,Exports,STM,Steam Coal,54.57,dollars per short ton
+2015-Q4,Exports,STM,Steam Coal,49.4,dollars per short ton
+2018-Q2,Exports,STM,Steam Coal,62.77,dollars per short ton
+2018-Q2,Imports,STM,Steam Coal,63.52,dollars per short ton
+2018-Q4,Imports,STM,Steam Coal,70.19,dollars per short ton
+2018-Q3,Imports,STM,Steam Coal,70.63,dollars per short ton
+2019-Q3,Imports,STM,Steam Coal,65.92,dollars per short ton
+2017-Q4,Imports,STM,Steam Coal,73.93,dollars per short ton
+2017-Q3,Imports,STM,Steam Coal,63.71,dollars per short ton
+2017-Q3,Exports,STM,Steam Coal,59.77,dollars per short ton
+2019-Q2,Imports,STM,Steam Coal,66.38,dollars per short ton
+2020-Q4,Exports,STM,Steam Coal,60.63,dollars per short ton
+2017-Q2,Imports,STM,Steam Coal,63.62,dollars per short ton
+2022-Q1,Imports,STM,Steam Coal,77.16,dollars per short ton
+2020-Q3,Imports,STM,Steam Coal,68.77,dollars per short ton
+2020-Q1,Imports,STM,Steam Coal,67.44,dollars per short ton
+2020-Q4,Imports,STM,Steam Coal,67.5,dollars per short ton
+2022-Q1,Exports,STM,Steam Coal,80.62,dollars per short ton
+2019-Q1,Exports,STM,Steam Coal,65.92,dollars per short ton
+2022-Q2,Exports,STM,Steam Coal,104.24,dollars per short ton
+2017-Q2,Exports,STM,Steam Coal,53.48,dollars per short ton
+2019-Q4,Imports,STM,Steam Coal,63.79,dollars per short ton
+2022-Q2,Imports,STM,Steam Coal,84.71,dollars per short ton
+2022-Q3,Imports,STM,Steam Coal,129.78,dollars per short ton
+2022-Q3,Exports,STM,Steam Coal,140.2,dollars per short ton
+2021-Q3,Imports,STM,Steam Coal,81.77,dollars per short ton
+2022-Q4,Imports,STM,Steam Coal,119.61,dollars per short ton
+2022-Q4,Exports,STM,Steam Coal,137.54,dollars per short ton
+2021-Q1,Imports,STM,Steam Coal,66.17,dollars per short ton
+2019-Q3,Exports,STM,Steam Coal,62.62,dollars per short ton
+2021-Q4,Exports,STM,Steam Coal,68.03,dollars per short ton
+2021-Q4,Imports,STM,Steam Coal,85.14,dollars per short ton
+2019-Q4,Exports,STM,Steam Coal,59.25,dollars per short ton
+2021-Q1,Exports,STM,Steam Coal,62.76,dollars per short ton
+2021-Q2,Imports,STM,Steam Coal,73.11,dollars per short ton
+2017-Q4,Exports,STM,Steam Coal,57.8,dollars per short ton
+2021-Q2,Exports,STM,Steam Coal,62.31,dollars per short ton
+2019-Q2,Exports,STM,Steam Coal,65.82,dollars per short ton
+2021-Q3,Exports,STM,Steam Coal,66.06,dollars per short ton
+2023-Q2,Exports,STM,Steam Coal,94.91,dollars per short ton
+2023-Q2,Imports,STM,Steam Coal,118.35,dollars per short ton
+2024-Q1,Exports,STM,Steam Coal,92.66,dollars per short ton
+2023-Q4,Exports,STM,Steam Coal,99.56,dollars per short ton
+2023-Q4,Imports,STM,Steam Coal,110.02,dollars per short ton
+2023-Q1,Imports,STM,Steam Coal,129.34,dollars per short ton
+2023-Q3,Imports,STM,Steam Coal,114.71,dollars per short ton
+2023-Q1,Exports,STM,Steam Coal,119.62,dollars per short ton
+2023-Q3,Exports,STM,Steam Coal,85.74,dollars per short ton
+2024-Q1,Imports,STM,Steam Coal,179.39,dollars per short ton

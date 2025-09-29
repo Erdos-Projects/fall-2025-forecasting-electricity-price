@@ -1,4 +1,4 @@
-name: base
+name: fall-2025-forecasting-electricity-price
 channels:
   - defaults
 dependencies:

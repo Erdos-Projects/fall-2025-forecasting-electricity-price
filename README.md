@@ -8,7 +8,7 @@ Datasets:
   https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table # Apparently easy to download
 
 Problem: 
-  What are the drivers of energy residential price for KH/monthly 
+  What are the drivers of energy residential price for KH/monthly and predict the monthly residential prices for each state in the USA for the next 36 months starting December 2025
 
 Stakeholders: 
   state and local governments (useful for regulation on how to work around increase in prices or alternative sources of energy that may not increase according to the predictors) # we probably need to make this a bit more       specific

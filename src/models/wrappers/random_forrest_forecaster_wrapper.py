@@ -19,7 +19,7 @@ warnings.filterwarnings(
 
 class RandomForrestForecaster:
 
-    def __init__(self, n_componets=5, horizon=12, n_estimators=100, random_state=42):
+    def __init__(self, state, n_componets=5, horizon=12, n_estimators=100, random_state=42):
         self.n_components = n_componets
         self.horizon = horizon
         self.preds = None
@@ -29,7 +29,7 @@ class RandomForrestForecaster:
         self.X_pca = None
         self.pca_pipe = Pipeline([('scaler', StandardScaler()), ('pca', PCA(n_components=n_componets))])
         self.rf_model = RandomForestRegressor(n_estimators=n_estimators, random_state=random_state)
-
+        self.state = state
 
     def fit(self, X: pd.DataFrame, y: pd.Series, trace: bool=False):
         self.y_train = y
@@ -59,9 +59,9 @@ class RandomForrestForecaster:
                 seasonal=True,
                 m=self.horizon,
                 error_action='ignore',
-                max_q = 5,
-                max_p = 5,
-                max_order = 10,
+                max_q = 3,
+                max_p = 2,
+                max_order = 5,
                 trace=trace
             )
             start = len(self.y_train) - self.horizon
@@ -73,7 +73,7 @@ class RandomForrestForecaster:
         plt.figure(figsize=(8, 3.5))
         plt.plot(self.train_dates, self.y_train, label="Actual Price", color="blue")
         plt.plot(self.forecast_dates, self.preds, label="Forecast (RandomForrestForecaster)", linestyle="--", color="red")
-        if test_data:
+        if test_data is not None:
             plt.plot(self.forecast_dates, test_data, color='blue')
 
         # Draw a vertical line marking training cutoff
@@ -85,7 +85,7 @@ class RandomForrestForecaster:
         plt.grid(True, alpha=0.3)
         plt.legend()
         plt.tight_layout()
-        plt.show()
         if save_path:
             plt.savefig(save_path)
+        plt.show()
     
